@@ -8,10 +8,7 @@ Data Ingestion: Load and inspect the dataset using pandas.
 EDA: Visualize the relationship between experience and salary.
 Data Preparation: Handle duplicates, check missing values, and preprocess data.
 Modeling: Train and evaluate:
-Linear Regression
-Decision Trees
-Random Forest Regression
-Evaluation: Compare models using metrics like MSE and R².
-Model Persistence: Save trained models for future use.
+
+
 
 
